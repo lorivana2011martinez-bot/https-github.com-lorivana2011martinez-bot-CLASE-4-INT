@@ -1,5 +1,5 @@
-#tarea asignada
-##EDI 2
+# tarea asignada
+## EDI 2
 Este cuaderno contiene material sobre educación inclusiva
 * Mapa mental: Bullying y discapasidad
 * Cuestionario: Acoso Escolar
